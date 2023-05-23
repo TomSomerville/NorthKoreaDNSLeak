@@ -49,6 +49,7 @@ vok.rep.kp.
 
 mfa.gov.kp
 korean-books.com.kp
+dprkportal.kp
 ```
 ## Manually Scraped Domains Not In XFer
 
@@ -56,6 +57,7 @@ korean-books.com.kp
 Domain:
 mfa.gov.kp
 korean-books.com.kp
+dprkportal.kp
 Scraped From: 
 http://www.kass.org.kp/index.php/
 ```
