@@ -48,12 +48,14 @@ star.net.kp.
 vok.rep.kp.
 
 mfa.gov.kp
+korean-books.com.kp
 ```
 ## Manually Scraped Domains Not In XFer
 
 ```
 Domain:
-http://www.mfa.gov.kp/
+mfa.gov.kp
+korean-books.com.kp
 Scraped From: 
 http://www.kass.org.kp/index.php/
 ```
