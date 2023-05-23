@@ -46,6 +46,15 @@ star.co.kp.
 star.edu.kp.
 star.net.kp.
 vok.rep.kp.
+http://www.mfa.gov.kp/
+```
+## Manually Scraped Domains Not In XFer
+
+```
+Domain:
+http://www.mfa.gov.kp/
+Scraped From: 
+http://www.kass.org.kp/index.php/
 ```
 
 ## .kp Zone File Data
