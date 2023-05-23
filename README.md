@@ -46,7 +46,8 @@ star.co.kp.
 star.edu.kp.
 star.net.kp.
 vok.rep.kp.
-http://www.mfa.gov.kp/
+
+mfa.gov.kp
 ```
 ## Manually Scraped Domains Not In XFer
 
